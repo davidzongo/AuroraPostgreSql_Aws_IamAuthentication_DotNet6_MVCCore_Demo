@@ -4,6 +4,6 @@ The goal of this document is to show how to Create Database and manage IAM to ha
 IAM DB Authentication is a way Developers  can connect to RDS instances passwordlessly. This method provide an additional layer of security because Authentication token is only available for 15 Minutes 
 
 To Setup we need to follow some steps : this work for Postgres and mysql database and you should check the compatible version from AWS
-To read more  https://davidzongo.com/?p=10410
+To read more  https://davidzongo.com/2021/12/18/use-aurora-postgresql-with-aws-iam-authentication-using-dotnet6-core-mvc-code/
 
 
